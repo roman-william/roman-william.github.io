@@ -1,0 +1,27 @@
+p {
+	color: black; 
+}
+h1{
+	text-align: center;
+}
+{
+ 	writing-mode: vertical-rl;
+	text-orientation: sideways;
+	color: red;
+}
+body {
+	background-color: #FCDB97;
+	text-align: center;
+
+
+}
+a {
+	color: black;
+}
+h3 {
+	color: #FF4577;
+}
+h2 {
+	text-align: center;
+}
+
